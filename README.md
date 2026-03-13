@@ -1,9 +1,27 @@
 ### Hi there 👋 I'm Ramdan
 
-- 🔭 I’m currently sharpening my portfolio
-- ✨ Interested in mobile app, web and web app related stuff
-- 🌱 I’m currently sharpening my skill in UI design and many more
-<!--- 👯 I’m looking to collaborate on anything! Hit me up 😄
-- 📫 Reach me via [LinkeIn](https://www.linkedin.com/in/ramdan2478/)-->
+**Digital Product Specialist | Full Stack Dev • UI/UX • QA • Tech Writer**
 
-<!--[![Dan's github stats](https://github-readme-stats.vercel.app/api?username=ramdan2478&show_icons=true&hide_border=true)](https://github.com/ramdan2478)-->
+I craft end-to-end digital experiences. Combining Full Stack Development with UI/UX Design, I build high-performance systems that are bug-free, scalable, and perfectly documented.
+
+---
+
+**🔭 Currently:** Sharpening my portfolio & open for freelance projects  
+**💼 Services:** Web Development • UI/UX Design • QA Testing • Technical Writing  
+**🛠️ Tech Stack:** Modern web, mobile apps, custom web applications  
+**📫 Let's collaborate:** Open for projects, work, contract & collaborations  
+
+<!-- 
+**👯 Looking to collaborate on anything! Hit me up 😄**
+**🔗 Reach me via [LinkedIn](https://www.linkedin.com/in/ramdan2478/)**
+-->
+
+---
+
+**What I do:**
+- 🌐 **Full Stack Web Development** — Custom apps, dashboards, APIs
+- 🎨 **UI/UX Design** — Wireframes to high-fidelity designs
+- 🧪 **QA Testing** — Manual & automated testing
+- 📝 **Technical Writing** — Documentation that actually helps
+
+**Portfolio:** [muhamad-ramdan.vercel.app](https://muhamad-ramdan.vercel.app/)
